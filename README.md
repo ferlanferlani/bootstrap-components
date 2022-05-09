@@ -1,2 +1,1 @@
 # bootstrap-components
-bootstrap components
